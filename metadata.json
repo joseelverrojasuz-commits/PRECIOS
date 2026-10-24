@@ -1,0 +1,6 @@
+{
+  "name": "Suite Econométrica de Precios y Demanda",
+  "description": "Estudio integral de analítica de datos, econometría de demanda, rentabilidad, simulación de escenarios y políticas de precios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
